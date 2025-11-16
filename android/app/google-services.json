@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "380598229569",
+    "project_id": "athent-95f16",
+    "storage_bucket": "athent-95f16.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380598229569:android:1c230b98e1b4f09b8684c0",
+        "android_client_info": {
+          "package_name": "com.example.authenticaion_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380598229569-lm8us3eopbf06uonniscj8l4fundak5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authenticaion_app",
+            "certificate_hash": "8e7f9f484deb3823b6aa09e530b67b832f11646e"
+          }
+        },
+        {
+          "client_id": "380598229569-ltfqov4607fh8297avlu3c61q0cudu1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgTfqL6CzBx09nA_0v8uvN0gN2fh_FEBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380598229569-ltfqov4607fh8297avlu3c61q0cudu1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
